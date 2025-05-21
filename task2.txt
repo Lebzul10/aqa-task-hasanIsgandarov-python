@@ -1,0 +1,17 @@
+Given bracket sentence: [((())()(())]]
+
++ Can this sequence be considered correct?
+- No, this sequence is not correct.
+
+Explanation:
+A correct bracket sequence must have all opening brackets matched with the 
+correct closing ones in the correct order.
+
+In this sequence:
+- There are 1 opening square brackets. But there are 2 closing square brackets
+
+- There are 5 opening round brackets. But there are only 5 closing round brackets
+
+Fix:
+To correct the sequence, the number of opening and closing brackets must be equal
+ and properly matched.
