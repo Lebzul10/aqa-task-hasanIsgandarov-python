@@ -34,3 +34,4 @@ This is the solution to the QA Automation traineeship technical task using Pytho
    ```bash
    git clone https://github.com/Lebzul10/aqa-task-hasanIsgandarov-python.git
    cd aqa-task-hasanIsgandarov-python
+   python3 main.py
