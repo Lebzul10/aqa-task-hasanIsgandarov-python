@@ -22,7 +22,7 @@ This is the solution to the QA Automation traineeship technical task using Pytho
 
 ## ✅ Features
 
-- All logic is implemented in `main.py`
+- All logic is implemented in `task1.py`
 - Console input/output supported
 - Bonus points implemented: interactive inputs and executable script
 
@@ -34,4 +34,4 @@ This is the solution to the QA Automation traineeship technical task using Pytho
    ```bash
    git clone https://github.com/Lebzul10/aqa-task-hasanIsgandarov-python.git
    cd aqa-task-hasanIsgandarov-python
-   python3 main.py
+   python3 task1.py
